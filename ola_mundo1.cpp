@@ -3,6 +3,6 @@
 
 
 int main () {
-         std::cout <<"Olá Mundo!"<< std::endel;
+         std::cout <<"Olá Mundo cruelmente cruel!"<< std::endel;
          return 0;
 }
