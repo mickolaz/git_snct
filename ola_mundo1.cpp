@@ -3,6 +3,6 @@
 
 
 int main () {
-         std::cout <<"Olá Mundo cruelmente cruel! Estamos novamente com medo de Crislayne, todos corram"<< std::endel;
+         std::cout <<"Feliz 11 de setembro!!"<< std::endel;
          return 0;
 }
